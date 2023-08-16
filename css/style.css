@@ -3,24 +3,31 @@
 header {
     border-style: solid;
     border-color: rgb(92, 221, 238);
-   background-color: hsl(158, 61%, 47%);
-  
+    background-image:url("/image/laorquidea.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    height: 300px; /* You must set a specified height */
+    background-position:left;
 }
+
 .title-header {
     font-family: "Poppins";
-    color: hsl(0, 0%, 96%);
+    color: hsl(258, 80%, 39%);
     font-size: 60px;
     text-align: center;
   }
   .subtitle{
     font-family: "Poppins";
     font-size: 30px;
-    color: rgb(4, 60, 57);
+    color: rgb(5, 65, 62);
     text-align: center;
 
   }
   body{
-    border: 2px solid powderblue;
+    border: 4px solid powderblue;
+    
+
+   
   }
   h3{
     font-family: "Poppins";
