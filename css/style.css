@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,400;10..48,700&family=Poppins:wght@200;400;600;700&display=swap');
+
+header {
+    border-style: solid;
+    border-color: rgb(92, 221, 238);
+   background-color: hsl(158, 61%, 47%);
+  
+}
+.title-header {
+    font-family: "Poppins";
+    color: hsl(0, 0%, 96%);
+    font-size: 60px;
+    text-align: center;
+  }
+  .subtitle{
+    font-family: "Poppins";
+    font-size: 30px;
+    color: rgb(4, 60, 57);
+    text-align: center;
+
+  }
+  body{
+    border: 2px solid powderblue;
+  }
+  h3{
+    font-family: "Poppins";
+    font-size: 20px;
+    color: rgb(5, 88, 5);
+  }
+p{
+  font-family: "Poppins";
+  font-size: 25px;
+  color: #271e2fcd
+}
+footer{
+  background-color: rgb(15, 138, 99);
+  font-family: "Poppins";
+  font-size: 20px;
+}
