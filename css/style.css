@@ -14,7 +14,7 @@ header {
 
 .title-header {
     font-family: "Poppins";
-    color: hsl(258, 80%, 39%);
+    color: hsl(258, 65%, 54%);
     font-size: 60px;
     text-align: center;
     margin-bottom: 5px;
@@ -22,7 +22,7 @@ header {
   .subtitle{
     font-family: "Poppins";
     font-size: 30px;
-    color: rgb(5, 65, 62);
+    color: rgb(255, 255, 255);
     text-align: center;
     margin-top: 5px;
 
