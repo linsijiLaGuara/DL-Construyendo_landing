@@ -43,11 +43,14 @@ p{
 }
 
 table{
-  width: 100%;
+  width: 80%;
 }
 footer{
   background-color: rgb(15, 138, 99);
   font-family: "Poppins";
   font-size: 20px;
   text-align: center;
+}
+.margin-left{
+  margin-left: 30px;
 }
