@@ -5,7 +5,7 @@
 header {
     border-style: solid;
     border-color: rgb(92, 221, 238);
-    background-image:url("/image/laorquidea.jpg");
+    background-image:url("/assets/image/laorquidea.jpg");
     background-color: #cccccc;
     background-repeat: no-repeat;
     height: 300px; /* You must set a specified height */
