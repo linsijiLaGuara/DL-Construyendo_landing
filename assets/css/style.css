@@ -3,59 +3,64 @@
 
 
 header {
-    border-style: solid;
-    border-color: rgb(92, 221, 238);
-    background-image:url("/assets/image/laorquidea.jpg");
-    background-color: #cccccc;
-    background-repeat: no-repeat;
-    height: 300px; /* You must set a specified height */
-    background-position:left;
-;
+  border-style: solid;
+  border-color: rgb(92, 221, 238);
+  background-image: url("../image/laorquidea.jpg");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  height: 250px;
+  /* You must set a specified height */
+  background-position: left;
 }
 
 .title-header {
-    font-family: "Poppins";
-    color: hsl(258, 65%, 54%);
-    font-size: 60px;
-    text-align: center;
-    margin-bottom: 5px;
-  }
-  .subtitle{
-    font-family: "Poppins";
-    font-size: 30px;
-    color: rgb(47, 99, 5);
-    text-align: center;
-    margin-top: 5px;
-    margin-left: 620px;
+  font-family: "Poppins";
+  color: hsl(258, 65%, 54%);
+  font-size: 60px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.subtitle {
+  font-family: "Poppins";
+  font-size: 30px;
+  color: rgb(47, 99, 5);
+  text-align: center;
+  margin-top: 3px;
+  margin-left: 620px;
 
 
-  }
-  body{
-    width: 100%;
-    border: 4px solid powderblue;
-    
+}
 
-  }
-  h3{
-    font-family: "Poppins";
-    font-size: 20px;
-    color: rgb(5, 88, 5);
-  }
-p{
+body {
+  width: 100%;
+  border: 4px solid powderblue;
+
+
+}
+
+h3 {
+  font-family: "Poppins";
+  font-size: 20px;
+  color: rgb(5, 88, 5);
+}
+
+p {
   font-family: "Poppins";
   font-size: 25px;
-  color: #271e2fcd
+  color: #271e2fcd;
 }
 
 
-footer{
+footer {
   background-color: rgb(15, 138, 99);
   font-family: "Poppins";
   font-size: 20px;
   text-align: center;
 }
-.margin-left{
+
+.margin-left {
   margin: 30px;
-  width:250px;
+  width: 250px;
   height: 300px;
 }
